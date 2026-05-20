@@ -7,7 +7,7 @@
 
 ## Installation
 
-1. Клонируйте репозиторий: `git clone <url-репозитория>`
+1. Клонируйте репозиторий: `git clone https://github.com/RinaGrisse/Library`
 2. Откройте проект в Android Studio (Giraffe или новее).
 3. Убедитесь, что установлен Android SDK 36 и JDK 17 (рекомендуется JBR из Android Studio).
 4. Синхронизируйте Gradle (`Sync Project with Gradle Files`).
